@@ -1,0 +1,28 @@
+{
+  "name": "cinemablock",
+  "version": "1.0.0",
+  "description": "ethereum base online ticket booking project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umarrazay/cinema_block.git"
+  },
+  "author": "umarraxa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umarrazay/cinema_block/issues"
+  },
+  "homepage": "https://github.com/umarrazay/cinema_block#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "hardhat": "^2.12.7"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.1",
+    "create-react-app": "^5.0.1",
+    "web3": "^1.8.2"
+  }
+}
